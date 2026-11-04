@@ -1,0 +1,4 @@
+Variable,Known_at_origin,Use
+Observed future temperature,False,Conditional
+Training weather climatology,True,Operational proxy
+National holiday calendar,True,Operational

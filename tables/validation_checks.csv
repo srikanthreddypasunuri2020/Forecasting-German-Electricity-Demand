@@ -1,0 +1,8 @@
+Check,Passed
+Past-only features and recursive history,True
+Saved model: Random Forest operational,True
+Saved model: Random Forest conditional,True
+Saved model: Gradient Boosting operational,True
+Saved model: Gradient Boosting conditional,True
+Saved LSTM and training scaler,True
+Exported metrics and common test horizon,True

@@ -1,0 +1,9 @@
+Model,Features,Validation_RMSE,Folds,Test_used_for_selection
+Random Forest operational,Full,1548.2389706280744,4,False
+Random Forest operational,No weather,1550.7364994887375,4,False
+Random Forest operational,No holidays,1561.8182426545886,4,False
+Random Forest operational,Load and calendar,1608.2514884463058,4,False
+Gradient Boosting operational,Full,1449.0570056867668,4,False
+Gradient Boosting operational,No weather,1475.9158763568275,4,False
+Gradient Boosting operational,No holidays,1666.6438681459442,4,False
+Gradient Boosting operational,Load and calendar,1660.5026199811932,4,False

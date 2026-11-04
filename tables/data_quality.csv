@@ -1,0 +1,2 @@
+Start,End,Hourly_rows,Daily_rows,Weekly_rows,Imputed_hours,Duplicate_rows,Forecast_origin,Test_hours,Test_weeks
+2015-01-01,2020-09-30 23:00:00,50400,2100,299,0,0,2018-10-01,17544,104

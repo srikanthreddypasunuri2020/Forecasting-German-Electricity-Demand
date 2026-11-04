@@ -1,0 +1,5 @@
+Family,Mechanism,Interpretability,Uncertainty,Maintenance
+Seasonal naive,Annual persistence,High,Requires separate calibration,Low
+SARIMAX,AR/MA coefficients and covariates,Moderate,Parametric intervals,Moderate
+Tree ensembles,"Lagged, weather and calendar features",Moderate,No native calibrated intervals,Moderate
+LSTM,Hourly demand sequences,Low,No calibrated intervals,High

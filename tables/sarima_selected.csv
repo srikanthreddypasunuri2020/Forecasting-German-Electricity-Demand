@@ -1,0 +1,2 @@
+order,seasonal_order,AIC,BIC,burn_in,effective_n
+"(3, 0, 4)","(1, 0, 1, 52)",188.50744285539872,217.99504175918042,54,141

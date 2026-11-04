@@ -1,0 +1,15 @@
+{
+  "specification": {
+    "lookback": 504,
+    "layers": [
+      64,
+      32
+    ],
+    "dropout": 0.2,
+    "rate": 0.001,
+    "batch": 64
+  },
+  "epochs": 10,
+  "scaler_end": "2018-09-30 23:00:00",
+  "seed": 42
+}
