@@ -1,6 +1,6 @@
 # Forecasting German Electricity Demand
 
-This project compares statistical and machine learning forecasts on a two-year holdout of German electricity demand. The notebook, `srikanth-p.ipynb`, covers data preparation, exploratory analysis, model fitting and evaluation. It compares mean, naïve, seasonal naïve and drift benchmarks with SARIMA, SARIMAX, Random Forest and Gradient Boosting. An LSTM is evaluated hourly, and its forecasts are also averaged by week for comparison with the weekly models.
+This project compares statistical and machine learning forecasts on a two-year holdout of German electricity demand. The notebook, `Forecasting German Electricity Demand.ipynb`, covers data preparation, exploratory analysis, model fitting and evaluation. It compares mean, naïve, seasonal naïve and drift benchmarks with SARIMA, SARIMAX, Random Forest and Gradient Boosting. An LSTM is evaluated hourly, and its forecasts are also averaged by week for comparison with the weekly models.
 
 ## Data sources
 
